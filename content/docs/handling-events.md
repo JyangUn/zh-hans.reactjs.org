@@ -17,7 +17,7 @@ React 元素的事件处理和 DOM 元素的很相似，但是有一点语法上
 
 ```html
 <button onclick="activateLasers()">
-  Activate Lasers
+  Activate Lasers666666
 </button>
 ```
 
